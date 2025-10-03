@@ -17,18 +17,20 @@
 
 ## 📸 效果预览
 
-> 配图需求：GitHub 仓库页「Code」标签下，按钮出现在 Watch / Fork / Star 右侧。  
-> 文件路径：`docs/images/preview.png`  
-> 建议尺寸：1200 × 600 px，PNG，白底，浏览器窗口保留 1 px 圆角。
+仓库页面
 
-![Preview](docs/images/preview.png)
+![Preview](img/仓库页面.png)
+
+跳转后页面
+
+![Preview](img/跳转后页面.png)
 
 ---
 
 ## 🚀 快速上手（30 秒完成）
 
 1. 确保浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/)（或同类扩展）。  
-2. 点击 ▶️ [GitHub 安装链接](https://github.com/QuietPeng/github-zread-jump/raw/main/github-zread.user.js)（Raw 文件）。  
+2. 点击下载 ▶️ [GitHub 安装链接](https://github.com/Quietpeng/Zread.ai-Jump-button/raw/refs/heads/main/github-zread.user.js)（Raw 文件）。  
 3. Tampermonkey 弹出安装界面 → 点击「安装」。  
 4. 打开任意 GitHub 仓库主页，若出现蓝色按钮「在 Zread.ai 查看指南」即安装成功！
 
@@ -45,6 +47,3 @@
 
 MIT © [QuietPeng](https://github.com/QuietPeng)
 
----
-
-把以上模板保存为 `README.md`，再按「配图需求」补一张 `docs/images/preview.png`，即可拥有一个简洁、专业、秒懂的用户脚本主页。祝使用愉快！
